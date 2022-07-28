@@ -1,0 +1,14 @@
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\bin\Debug\Tester(RSI+BB).exe.config
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\bin\Debug\Tester(RSI+BB).exe
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\bin\Debug\Tester(RSI+BB).pdb
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester(RSI+BB).csprojAssemblyReference.cache
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester_RSI_BB_.Form1.resources
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester_RSI_BB_.Properties.Resources.resources
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester(RSI+BB).csproj.GenerateResource.cache
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester(RSI+BB).csproj.CoreCompileInputs.cache
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester(RSI+BB).exe
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester(RSI+BB).pdb
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester(RSI+BB).csproj.CopyComplete
+C:\Users\ARTURIO\source\repos\Tester(RSI+BB)\Tester(RSI+BB)\obj\Debug\Tester_RSI_BB_.Chart.resources
